@@ -30,7 +30,7 @@
 Ambitious and technically skilled Data Analyst and Data Scientist with a strong foundation in **MSc Computing and IT** and a Bachelor's in **Electrical and Electronics Engineering**. Experienced in leveraging Python, Tableau, Power BI, Streamlit, and SQL to drive data-driven solutions through multiple internships and careers in Data Analytics, Data Science, Artificial Intelligence, and Machine Learning. Adept at transforming complex datasets into actionable insights and visualizations.
 
 - 🎓 **Postgraduate Degree:** MSc in Computing and IT &mdash; **Cardiff Metropolitan University**
-- ⚡ **Undergraduate Degree:** Bachelor's in Electrical and Electronics Engineering
+- ⚡ **Undergraduate Degree:** Bachelor's in Electrical and Electronics Engineering &mdash; **Meenakshi College of Engineering**
 - 📍 **Location:** Cardiff, Wales, UK
 - 🎯 **Areas of Focus:** Data Analytics, Data Science, Artificial Intelligence & Machine Learning
 - 🌐 **Portfolio Website:** [seb85vickz.github.io](https://seb85vickz.github.io/seba.github.io/)
